@@ -24,8 +24,8 @@ We learnt how to use the cohere API, make a full stack app integrating front and
 ## What's next for pentatonic
 We will complete the app to support multiple users and provide a better user experience.
 
-## Authors
-Thomas Chernaik, Adam Crawley, Birat Koirala
-
 ## NB: Git Squashed Repo
 After some API key issues meaning they were accidently pushed into the main repository, the public version will be shown here without the API keys present.
+
+### Authors
+Thomas Chernaik, Adam Crawley, Birat Koirala
