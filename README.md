@@ -1,4 +1,4 @@
-# pentatonicSquashed
+# Pentatonic
 Automate you're learning. Presenting a flashcard learning app which generates the flashcards for you, from your notes, with AI.
 
 ---
